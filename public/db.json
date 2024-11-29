@@ -1,0 +1,62 @@
+{"jobs": [
+    {
+        "job_title": "FullStack Developer",
+        "description": "The role will be a part of the UPLs Modern Trade Sales team in a customer facing assignment. He/ She works in tandem with other functions viz. Ops, Finance, Supply Chain & sales teams.",
+        "location": "Hartford , Connecticut",
+        "department" : "IT",
+        "salary": "$80k-$120k",
+        "role": "Software Developer",
+        "experience":"2 -3 years",
+        "company_name":"Infosys"
+    },
+    {
+      "job_title": "Web Database Developer",
+      "description": "The role will be responsible for designing, creating, and managing the databases that power websites and web applications.",
+      "location": "Chicago , Illinois",
+      "department" : "IT",
+      "salary": "$90k-$110k",
+      "role": "",
+      "experience":"0-3 years",
+      "company_name":"Crstl"
+    },
+    {
+      "job_title": "Software Architect",
+      "description": "The role will be a part of the UPLs Modern Trade Sales team in a customer facing assignment. He/ She works in tandem with other functions viz. Ops, Finance, Supply Chain & sales teams.",
+      "location": "Mumbai, Maharashtra",
+      "department" : "IT",
+      "salary": "2,000,000-6,000,000",
+      "role": "Software Developer",
+      "experience":"2 -3 years",
+      "company_name":"Revolancer Limited"
+    },
+    {
+      "job_title": "FullStack Developer",
+      "description": "The role will be a part of the UPLs Modern Trade Sales team in a customer facing assignment. He/ She works in tandem with other functions viz. Ops, Finance, Supply Chain & sales teams.",
+      "location": "Mumbai, Maharashtra",
+      "department" : "IT",
+      "salary": "2,000,000-6,000,000",
+      "role": "Software Developer",
+      "experience":"2 -3 years",
+      "company_name":"Revolancer Limited"
+  },
+  {
+    "job_title": "FullStack Developer",
+    "description": "The role will be a part of the UPLs Modern Trade Sales team in a customer facing assignment. He/ She works in tandem with other functions viz. Ops, Finance, Supply Chain & sales teams.",
+    "location": "Mumbai, Maharashtra",
+    "department" : "IT",
+    "salary": "2,000,000-6,000,000",
+    "role": "Software Developer",
+    "experience":"2 -3 years",
+    "company_name":"Revolancer Limited"
+  },
+  {
+    "job_title": "FullStack Developer",
+    "description": "The role will be a part of the UPLs Modern Trade Sales team in a customer facing assignment. He/ She works in tandem with other functions viz. Ops, Finance, Supply Chain & sales teams.",
+    "location": "Mumbai, Maharashtra",
+    "department" : "IT",
+    "salary": "2,000,000-6,000,000",
+    "role": "Software Developer",
+    "experience":"2 -3 years",
+    "company_name":"Revolancer Limited"
+  }
+  ]}
