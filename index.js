@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const { MongoClient } = require('mongodb');
 async function main() {
-    const uri = `mongodb+srv://preethirajammagari903:du3m34yAUd3nA1RI@cluster0.j4gjq.mongodb.net/Job_Portal?retryWrites=true&w=majority`;
+    const uri = `mongodb+srv://preethirajammagri903:du3m34yAUd3nA1RI@cluster0.j4gjq.mongodb.net/Job_Portal?retryWrites=true&w=majority`;
     const client = new MongoClient(uri);
     try {
         await client.connect();
@@ -23,7 +23,7 @@ const server = http.createServer(async (req, res) => {
         });
     } else if (req.url === '/api') {
         res.writeHead(200, { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' });    
-        const uri = `mongodb+srv://preethirajammagari903:du3m34yAUd3nA1RI@cluster0.j4gjq.mongodb.net/Job_Portal?retryWrites=true&w=majority`;
+        const uri = `mongodb+srv://preethirajammagri903:du3m34yAUd3nA1RI@cluster0.j4gjq.mongodb.net/Job_Portal?retryWrites=true&w=majority`;
         const client = new MongoClient(uri);
         try {
             await client.connect();
